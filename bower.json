@@ -6,16 +6,14 @@
     "matt"
   ],
   "license": "ISC",
-  "keywords": [
-    "e"
-  ],
+   "keywords": [
+      "e"
+   ],
+   "moduleType": "amd",
+
   "homepage": "",
   "private": true,
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "node_modules"
   ]
 }
