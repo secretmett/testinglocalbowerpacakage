@@ -1,0 +1,21 @@
+{
+  "name": "test-script-export",
+  "description": "testing cross project script sharing",
+  "main": "CoreScript.js",
+  "authors": [
+    "matt"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "e"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

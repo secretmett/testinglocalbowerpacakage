@@ -1,0 +1,14 @@
+{
+  "name": "test-script-export",
+  "version": "1.0.0",
+  "description": "testing cross project script sharing",
+  "main": "CoreScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e"
+  ],
+  "author": "e",
+  "license": "ISC"
+}
